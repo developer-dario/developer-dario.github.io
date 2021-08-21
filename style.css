@@ -1,0 +1,12 @@
+.demo-list-control {
+    width: 300px;
+  }
+  
+  .page-content {
+  
+      padding: 100px 500px;
+  }
+  body {
+
+    background: linear-gradient(#c8ff01 0%, #00ffff 100%);
+  }
